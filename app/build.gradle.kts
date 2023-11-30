@@ -51,8 +51,9 @@ android {
 
 dependencies {
 
-    implementation(project(":feature:menu-list"))
-    implementation(project(":libs:exodia-ds"))
+    implementation(projects.feature.menuList)
+    implementation(projects.libs.exodiaDs)
+
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
     implementation("androidx.activity:activity-compose:1.8.1")

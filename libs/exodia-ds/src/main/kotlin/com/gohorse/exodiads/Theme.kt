@@ -1,4 +1,4 @@
-package com.gohorse.timetoduel.ui.theme
+package com.gohorse.exodiads
 
 import android.app.Activity
 import android.os.Build
