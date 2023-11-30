@@ -14,6 +14,7 @@ dependencies {
     api(libs.androidx.compose.ui.util)
     api(libs.androidx.compose.ui.graphics)
     api(libs.androidx.compose.runtime)
+    api(libs.androidx.compose.ui.tooling.preview)
 
     implementation(libs.androidx.core.ktx)
 }
