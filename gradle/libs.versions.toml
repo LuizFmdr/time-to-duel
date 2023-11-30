@@ -5,7 +5,7 @@ kotlinSerialization = "1.9.10"
 hilt = "2.48.1"
 
 compose-bom = "2023.06.01"
-accompanist = "0.28.0"
+accompanist = "0.32.0"
 activity-compose = "1.8.1"
 androidx-junit = "1.1.5"
 appcompat = "1.6.1"
