@@ -1,6 +1,6 @@
 [versions]
 
-kotlinSerialization = "1.9.10"
+kotlinSerialization = "1.9.22"
 
 hilt = "2.48.1"
 
@@ -25,7 +25,7 @@ ksp = "1.9.20-1.0.14"
 truth = "1.1.5"
 turbine = "0.12.1"
 agp = "8.1.4"
-org-jetbrains-kotlin-android = "1.9.20"
+org-jetbrains-kotlin-android = "1.9.22"
 core-ktx = "1.12.0"
 lifecycle-runtime-ktx = "2.6.2"
 androidx-compose-compose-bom = "2023.10.01"
